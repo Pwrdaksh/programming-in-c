@@ -7,12 +7,13 @@ int main() {
  printf("Batch - B6\n");
  printf("--------------------------------------------\n");
 
- printf("356/K-103 rajajipuram Lucknow uttar pradesh\n");
- printf("City: lucknow\n");
- printf("State: Uttar pradesh\n");
+ printf("the delfin\n");
+ printf("City: bidholi\n");
+ printf("State: Uttar khand\n");
  printf("Pincode: 226017\n");
  printf("--------------------------------------------\n");
  printf("Press Enter to exit...");
  getchar();
  return 0;
 }
+
